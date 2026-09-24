@@ -1,4 +1,4 @@
-# 🔗 MATSYNC AI
+# 🤖 MATSYNC AI
 AI-powered platform for standardizing, matching and harmonizing material codes across CPSEs with engineering-aware validation.
 
 ### AI-Powered Material Standardization & Harmonization Platform
